@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### I am Davin Pihlajasaari and I'm just starting as a student at LAB University of Applied Sciences Learning Industrial Information technology. 
-
+![CAT](https://github.com/DavinPihlajasaari/ImageStorage/blob/main/IMG_1882.jpg)
 - I'm currently working on my **README**.
 - I'm currently learning the basics.
 - I'm looking to collaborate on many future projects.
