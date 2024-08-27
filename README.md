@@ -10,4 +10,4 @@
 - You can reach me at davin.pihlajasaari@gmail.com or by +358 41 470 2096 during standard working hours.
 - You can refer to me as **he/him**.
 - Fun fact: I like to read a lot.
-- [An Interesting thing.](https://avogadr.io/?background=000000&foreground=ffffff&rotation=0&compound=Insulin)
+- [A nice place to be.](https://elab.lab.fi/en)
