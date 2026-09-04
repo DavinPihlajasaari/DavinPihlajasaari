@@ -2,10 +2,8 @@
 
 #### I am Davin Pihlajasaari and I am a third year student at LAB University of Applied Sciences Learning Industrial Information technology. 
 ![CAT](https://github.com/DavinPihlajasaari/ImageStorage/blob/main/IMG_1882.jpg)
-- I'm currently learning the basics.
-- I'm looking to collaborate on many future projects.
-- I'm looking for help with my studies.
-- Ask me about anything work or school related.
+- I am learning C and Python as my main focuses.
+- I am looking to collaborate on many future projects.
 - You can reach me at davin.pihlajasaari@gmail.com and davin.pihlajasaari@student.lab.fi or by +358 41 470 2096 during standard working hours.
 - You can refer to me as **he/him**.
 - Fun fact: I like to read a lot.
